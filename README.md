@@ -13,3 +13,4 @@ Several Textbook PDFs for Math/CS Courses at the University of South Carolina
 * [MATH 141,142,241](http://dl.iranidata.com/book/daneshgahi/George%20B.%20Thomas%20Jr.,%20Maurice%20D.%20Weir,%20Joel%20R.%20Hass-Thomas%27%20Calculus_%20Early%20Transcendentals%20(13th%20Edition)-Pearson%20(www.IraniData.com).pdf)
 * [MATH 574 - 7E](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf)
 * [MISC - Discrete using Haskell](https://pdfs.semanticscholar.org/7177/e7f814de89f069e7cb58d6c0d332978c2215.pdf)
+* [MISC - Introduction to Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
